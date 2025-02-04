@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog (est Feb 1, 2025)
 
-You can use the [editor on GitHub](https://github.com/jdpaquette/jdpaquette.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It is my plan for this "blog" to record my journey through learning as much programming types of languages as I can. I am currently a data anaylst so the plan is to start going through a Data Since track (Python, A.I. Machine Learning, NumPy, Matplotlib, Scikit-learn, Neural Networks, SQL, Power BI,  etc). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would also like to utilize my Python programming skills to venture into Web Development. Mainly a Back End Developer with Full Stack capabilities. This journey will likely include (HTML, CSS, JavaScript, the MERN stack, as well as Data Structures and Algorithms).  
 
 ### Markdown
 
