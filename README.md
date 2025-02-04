@@ -1,6 +1,6 @@
 ## Welcome to My Blog (est Feb 1, 2025)
 
-It is my plan for this "blog" to record my journey through learning as much programming types of languages as I can. I am currently a data anaylst so the plan is to start going through a Data Since track (Python, A.I. Machine Learning, NumPy, Matplotlib, Scikit-learn, Neural Networks, SQL, Power BI,  etc). 
+It is my plan for this "blog" to record my journey as I learn as many programming languages as I can. I am currently a data anaylst so the plan is to start going through a Data Science track (Python, A.I. Machine Learning, NumPy, Matplotlib, Scikit-learn, Neural Networks, SQL, Power BI, etc). 
 
 I would also like to utilize my Python programming skills to venture into Web Development. Mainly a Back End Developer with Full Stack capabilities. This journey will likely include (HTML, CSS, JavaScript, the MERN stack, as well as Data Structures and Algorithms).  
 
