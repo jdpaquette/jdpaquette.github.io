@@ -4,9 +4,15 @@ It is my plan for this "blog" to record my journey as I learn as many programmin
 
 I would also like to utilize my Python programming skills to venture into Web Development. Mainly a Back End Developer with Full Stack capabilities. This journey will likely include (HTML, CSS, JavaScript, the MERN stack, as well as Data Structures and Algorithms).  
 
-### Markdown
+### Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are the tools I plan to use to accomplish my goals for this upcoming year. Not sure if I will or will not use all of these sources, but these are the beginning possibilities I have identified:
+
+- [SoloLearn](https://www.sololearn.com/en/learn) This is my favorite App for learning programming.
+- [Udemy](https://www.udemy.com/) This is my go-to for most training courses for anything, but especially programming.
+- [freeCodeCamp](https://www.freecodecamp.org/) This is another great choice for free programming courses from Web Design to Data Science.
+- [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
+- [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
 ```markdown
 Syntax highlighted code block
