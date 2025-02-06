@@ -22,3 +22,5 @@ This is the start of my training mission to learn as much programming as possibl
 
 I also started using SoloLearn to run through the Python programming language. Completed the first section "Getting Started with Python". Very simple with the use of text & numerical data along with variables...
 
+
+
