@@ -16,7 +16,7 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 
 ### Day One
 
-This is the start of my training mission to learn as much programming as possible. I decided to start with an Udemy training course about Git and Github to gain some refresher knowledge on Version Control Systems and the use of repositories. Completed section 1: Course Orientation and Section 2: Introducing Git. 
+This is the start of my training mission to learn as much programming as possible. I decided to start with an Udemy training course about Git and Github to gain some refresher knowledge on Version Control Systems and the use of repositories. Completed Section 1: Course Orientation and Section 2: Introducing Git. 
 
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/?couponCode=ST5MT020225BUS) by Colt Steele
 
