@@ -20,7 +20,8 @@ This is the start of my training mission to learn as much programming as possibl
 
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/?couponCode=ST5MT020225BUS) by Colt Steele
 
-I also started using SoloLearn to run through the Python programming language. Completed the first section "Getting Started with Python". Very simple with the use of text & numerical data along with variables...\
+I also started using SoloLearn to run through the Python programming language. Completed the first section "Getting Started with Python". Very simple with the use of text & numerical data along with variables...
+<br>
 
 
 
