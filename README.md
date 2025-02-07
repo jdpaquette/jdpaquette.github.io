@@ -14,6 +14,15 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day Four
+Feb. 6th, 2025
+
+Day four I found myself adding freecodecamp to my list of current courses to do in connection with the SoloLearn app and Colt's Udemy course stated previously. Since their website / course offering has been streamlined, I decided to begin again with "Responsive Web Design certification". Due to the fact that this is just HTML and CSS, I should be able to fly through the course pretty quickly so I can move onto the JavaScript course "JavaScript Algorithms and Data Structures". Never hurts to get some refresher. 
+
+- [freeCodeCamp](https://www.freecodecamp.org/learn)
+
+
+
 ### Day Three
 Feb. 5th, 2025
 
