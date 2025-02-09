@@ -14,6 +14,11 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day Five
+Feb. 7th, 2025
+
+A little more control flow from SoloLearn. Other than that I have been busy with my day job today. Did a little freeCodeCamp as well but not enough to warrent any comments today. 
+
 ### Day Four
 Feb. 6th, 2025
 
