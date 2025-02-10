@@ -14,6 +14,13 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day Six
+Feb. 8th, 2025
+
+I spent the day in Hilton Head, SC for a little break with the wifey and having some moonlight dinner in Beaufort, SC at Q on the Bay. Stopped by Best Buy and decided to purchase a M4 Mac Mini (16gb / 512gb). The store didn't have the model I wanted in stock, so placed an order online with expected arrival on the 11th. 
+
+I can't wait to upgrade from using my Intel i7 Macbook Pro from 2019. The M4 Mac Mini is appearing to be one of the fasted little pieces of tech even at it's cheap base price. 
+
 ### Day Five
 Feb. 7th, 2025
 
