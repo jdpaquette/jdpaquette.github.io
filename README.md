@@ -14,12 +14,17 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day Seven
+Feb 9th, 2025
+
+Today I got back with a little more SoloLearn. I completed the "Control Flows" section and moved onto "Working with Lists". With only 16 hours left in this weeks "competition" at SolorLearn for my Mercury League, it looks like I will have to settle for second place. I currently have 817xp and the person in first place has a strong lead with 1162xp. Unless I get super motiviated, it doesn't look like I will be catching up. But at least I was able to participate in learning some Python at least a little for seven straight days.  
+
 ### Day Six
 Feb. 8th, 2025
 
 I spent the day in Hilton Head, SC for a little break with the wifey and having some moonlight dinner in Beaufort, SC at Q on the Bay. Stopped by Best Buy and decided to purchase a M4 Mac Mini (16gb / 512gb). The store didn't have the model I wanted in stock, so placed an order online with expected arrival on the 11th. 
 
-I can't wait to upgrade from using my Intel i7 Macbook Pro from 2019. The M4 Mac Mini is appearing to be one of the fasted little pieces of tech even at it's cheap base price. 
+I can't wait to upgrade from using my Intel i7 Macbook Pro from 2019. The M4 Mac Mini is appearing to be one of the fasted little pieces of tech even at it's cheap base price. All of my programming will resume using that platform and the MacOS system. I am slowing moving my tech "infrastructure" to the Apple platform and will mainly utilize my Windows PC for AAA gaming and for my day job as needed. 
 
 ### Day Five
 Feb. 7th, 2025
