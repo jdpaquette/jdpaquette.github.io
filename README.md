@@ -14,6 +14,11 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day Eight
+Feb. 10th, 2025
+
+
+
 ### Day Seven
 Feb 9th, 2025
 
