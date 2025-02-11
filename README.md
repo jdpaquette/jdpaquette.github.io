@@ -17,7 +17,7 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 ### Day Eight
 Feb. 10th, 2025
 
-
+Completed the first week of SoloLearn and advanced to the "Venus" League with a solid rank of second place in the "Mercury" League. Completed "Working with Lists' as well as "Mixing Things Up: Loops and Lists" sections with another 165xp placing me currently in third place in the current league. I having been having some confusion with "break" and "continue" which I will need to practice a little more. Busy at the "day job" so not much else was completed.
 
 ### Day Seven
 Feb 9th, 2025
