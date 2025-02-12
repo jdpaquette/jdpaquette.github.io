@@ -17,7 +17,7 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 ### Day Nine
 Feb. 11th, 2025
 
-Had a lot of meeting at the "day job" today. Also had a lot of grading to due in my two C++ programming courses I teach at University along with a hour long live session. 
+Had a lot of meeting at the "day job" today. Also had a lot of grading to due in my two C++ programming courses I teach at University along with a hour long live session. With that said, I was still able to complete some sections in the SoloLearn app in the Python section. I am currently in day two of the Venus League with 265xp. 
 
 ### Day Eight
 Feb. 10th, 2025
