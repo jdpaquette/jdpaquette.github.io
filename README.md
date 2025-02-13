@@ -14,6 +14,11 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 10
+Feb. 12, 2025
+
+So, my M4 Mac Mini came in today from Best Buy. Between work, I spent most of the day getting it setup and add apps to it that I plan to use. Needed basically everything installed on the little guy. I need productivity apps, design app, and programming apps all installed. Deciding what I want to use this go around (MS vs Google vs Apple) and (Adobe vs Affinity vs ...) (Davinci vs Final Cut Pro) etc...
+
 ### Day Nine
 Feb. 11th, 2025
 
