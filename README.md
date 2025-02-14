@@ -14,6 +14,11 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+#### Day 11
+Feb. 13, 2025
+
+I finished setting up my new M4 Mac Mini with the programs I immediately need for both work, teaching, and learning. I downloaded and setup VS Code for Python. C++, and Web Development. I also downloaded, (in case need in future), PyCharm, CLion, and IntelliJ IDEA, and Davinci Resolve. I updated my Apple Terminal with "Oh My ZSH". 
+
 ### Day 10
 Feb. 12, 2025
 
