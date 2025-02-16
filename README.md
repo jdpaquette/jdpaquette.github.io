@@ -14,6 +14,12 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 13
+
+Started the 100 Days of Python from Dr. Angela Yu on Udemy. This will give me something to follow along with and something to commit to for "at least" 100 days. This is a project based program that will teach you to program Python by completing tasks. Seems like a good idea to start off with. I will work through the program to get a good review of the system. 
+
+Only completed a couple assignments on SoloLearn. Mostly just to keep my streak alive and currently still in second place with 542xp. 
+
 #### Day 12
 
 Went through Vs Code some more and downloaded some extensions for Python, Web Development, and C++ so it is ready for use whenever I get around to the bigger development skills. I also went through some more Git / Github training and messed around setting up some more repositories and pushing from local. Took some trial and error to get the "ssh" working correctly. Glad it is setup now though, so much easier to use then having to deal with username and password. Looking through Dr. Angela Yu's -- Web Development Bootcamp and her 100 days of Python Code. So between that and Colt's, not sure where I fit comfortably. I may just have to get out of the tutorials, but I feel like I am going to go through all of these tutorials to give a good review to my students and followers of which programs are good on these different platforms. 
