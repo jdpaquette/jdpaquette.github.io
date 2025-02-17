@@ -26,13 +26,13 @@ Started the 100 Days of Python from Dr. Angela Yu on Udemy. This will give me so
 
 Only completed a couple assignments on SoloLearn. Mostly just to keep my streak alive and currently still in second place with 542xp. 
 
-#### Day 12
+### Day 12
 
 Went through Vs Code some more and downloaded some extensions for Python, Web Development, and C++ so it is ready for use whenever I get around to the bigger development skills. I also went through some more Git / Github training and messed around setting up some more repositories and pushing from local. Took some trial and error to get the "ssh" working correctly. Glad it is setup now though, so much easier to use then having to deal with username and password. Looking through Dr. Angela Yu's -- Web Development Bootcamp and her 100 days of Python Code. So between that and Colt's, not sure where I fit comfortably. I may just have to get out of the tutorials, but I feel like I am going to go through all of these tutorials to give a good review to my students and followers of which programs are good on these different platforms. 
 
 In SoloLearn, I completed multiple sections. I finished "Functions", "Mixing Things Up: Using Functions", and "Collection Types". I finished the day with 522xp moving me into second place just behind the leader of this week's "Venus League". Keep up the good work :)   
 
-#### Day 11
+### Day 11
 
 I finished setting up my new M4 Mac Mini with the programs I immediately need for both work, teaching, and learning. I downloaded and setup VS Code for Python. C++, and Web Development. I also downloaded, (in case need in future), PyCharm, CLion, and IntelliJ IDEA, and Davinci Resolve. I updated my Apple Terminal with "Oh My ZSH". 
 
