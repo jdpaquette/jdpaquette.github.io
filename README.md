@@ -14,6 +14,12 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 14
+
+Spent today moving from one campsite in Yemassee S.C. to Myrtle Beach for the week. Worked on some more Python by completing Day Two of 100 Days of Python by Dr. Angela Yu. Basically completing and hour of code per day with this course. I may complete more days at one time if / when I have to extra time. Today's section cpvered (primitive data types and mathematical operations). 
+
+
+
 ### Day 13
 
 Started the 100 Days of Python from Dr. Angela Yu on Udemy. This will give me something to follow along with and something to commit to for "at least" 100 days. This is a project based program that will teach you to program Python by completing tasks. Seems like a good idea to start off with. I will work through the program to get a good review of the system. 
