@@ -14,6 +14,12 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 15
+
+Completed my 15 day streak on SoloLearn and earned a little reward of more xp. I finished the Venus week in first place - "Go me!!". At the start for today, the Earth League, I finished work through the Functional Programming section and completed the day with 122xp placing me in 7th place. Guess my competitors for this week are actually doing some programming. 
+
+In Angela's Python course, I worked through "Day Three" which was about "Control Flow and Logical Operations". 100 days of Code is going with full force. On this day, I completed a little word Based game called "Treasure Island". A second exercise on this day was working with the BMI Calculator from yesterday while adding interpretations. 
+
 ### Day 14
 
 Spent today moving from one campsite in Yemassee S.C. to Myrtle Beach for the week. Worked on some more Python by completing Day Two of 100 Days of Python by Dr. Angela Yu. Basically completing and hour of code per day with this course. I may complete more days at one time if / when I have to extra time. Today's section cpvered (primitive data types and mathematical operations). 
