@@ -14,6 +14,10 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 16
+
+A very slow day when it comes to programming today...did only complete one little section of SoloLearn today, mainly just to keep my streak going. Also completed Day Four of the 100 Days of Python course. 
+
 ### Day 15
 
 Completed my 15 day streak on SoloLearn and earned a little reward of more xp. I finished the Venus week in first place - "Go me!!". At the start for today, the Earth League, I finished work through the Functional Programming section and completed the day with 122xp placing me in 7th place. Guess my competitors for this week are actually doing some programming. 
