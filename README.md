@@ -16,7 +16,9 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 
 ### Day 16
 
-A very slow day when it comes to programming today...did only complete one little section of SoloLearn today, mainly just to keep my streak going. Also completed Day Four of the 100 Days of Python course. 
+A very slow day when it comes to programming today...did only complete one little section of SoloLearn today, mainly just to keep my streak going. 
+
+Also completed Day Four of the 100 Days of Python course. 
 
 ### Day 15
 
