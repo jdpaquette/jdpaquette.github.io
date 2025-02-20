@@ -14,11 +14,17 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 17
+
+Day 5 of 100 Days of Python consists of creating three different "apps". A "High Score" app that will pick the highest score from a list. Also, a "FizzBuzz" game that chooses to print "Fizz", "Buzz", "FIzzBuzz", or a number based on assigned criteria. Finally, a "Password Genrator" that will create a password based on the number of letters, numbers, and symbols requested of each. 
+
+In SoloLearn, just doing one little section each day until I catch up with the 100 Days Python to be dealing with the same"ish" content. Will still finish in the top three hopefully at end of the week. 
+
 ### Day 16
 
 A very slow day when it comes to programming today...did only complete one little section of SoloLearn today, mainly just to keep my streak going. 
 
-Also completed Day Four of the 100 Days of Python course. 
+Also completed Day Four of the 100 Days of Python course. Created a "Banker Roulette" app - where the app will choose whom in the party will pay the bill. Also created a Rock Paper Scissors game with some minor graphics. 
 
 ### Day 15
 
