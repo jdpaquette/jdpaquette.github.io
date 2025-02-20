@@ -14,6 +14,10 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 18
+
+
+
 ### Day 17
 
 Day 5 of 100 Days of Python consists of creating three different "apps". A "High Score" app that will pick the highest score from a list. Also, a "FizzBuzz" game that chooses to print "Fizz", "Buzz", "FIzzBuzz", or a number based on assigned criteria. Finally, a "Password Genrator" that will create a password based on the number of letters, numbers, and symbols requested of each. 
