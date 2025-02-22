@@ -14,6 +14,12 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 19
+
+Day Seven of 100 days of python and beginning hangman game.
+
+one small section of sololearn.
+
 ### Day 18
 
 
