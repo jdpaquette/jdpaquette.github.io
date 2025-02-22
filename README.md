@@ -14,6 +14,14 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 20
+
+I am now on Day Eight of the 100 Days of Python course. On day eight, I created three files. There was a "Love Calculator", "Caesar Cipher", and "Life in Weeks". This is still an interesting program to me as we are learning Python by building apps. 
+
+In SoloLearn, I finished the first Python program earning the "Python Developer" certificate. I think I will now move on the HTML, CSS, and JavaScript. 
+
+![image](https://github.com/user-attachments/assets/44fa570d-0149-4cea-873e-f919ec8a56f2)
+
 ### Day 19
 
 Day Seven of 100 days of python and beginning hangman game.
