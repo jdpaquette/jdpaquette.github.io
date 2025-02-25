@@ -14,6 +14,10 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 - [Coursera](https://www.coursera.org/) This will be for Google Certifications and Data Science.
 - [Maven Analytics](https://app.mavenanalytics.io/) Possibly utilize this site for Data Analytics / Science training.
 
+### Day 21 /22
+
+Been slacking a lot over the last couple of days. We moved the RV from Myrtle Beach, S.C. to Fair Play, S.C. yesterday and were experiencing a lot of issues along the way. Had some hook-up issues, ran out of gas on the highway, and one of our slides is not moving out straigth. Looked online for ways to get it fixed. WIll have to tray some more tomorrow. 
+
 ### Day 20
 
 I am now on Day Eight of the 100 Days of Python course. On day eight, I created three files. There was a "Love Calculator", "Caesar Cipher", and "Life in Weeks". This is still an interesting program to me as we are learning Python by building apps. 
