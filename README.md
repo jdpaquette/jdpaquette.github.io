@@ -16,7 +16,9 @@ These are the tools I plan to use to accomplish my goals for this upcoming year.
 
 ### Day 21 /22
 
-Been slacking a lot over the last couple of days. We moved the RV from Myrtle Beach, S.C. to Fair Play, S.C. yesterday and were experiencing a lot of issues along the way. Had some hook-up issues, ran out of gas on the highway, and one of our slides is not moving out straigth. Looked online for ways to get it fixed. WIll have to tray some more tomorrow. 
+Been slacking a lot over the last couple of days. We moved the RV from Myrtle Beach, S.C. to Fair Play, S.C. yesterday and were experiencing a lot of issues along the way. Had some hook-up issues, ran out of gas on the highway, and one of our slides is not moving out straigth. Looked online for ways to get it fixed. WIll have to tray some more tomorrow.
+
+Haven't done any Python programming for the last couple of days from Angela Yu. Will have to get back to that soon. I did complete some HTML from SoloLearn over the last two days and finished the "Earth" week in 5th position. Will continue with that as possible. I will try to get myself back on track. 
 
 ### Day 20
 
